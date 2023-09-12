@@ -15,7 +15,7 @@ const Trending = () => {
 		headers: {
 			accept: "application/json",
 			Authorization:
-				"Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiIxMjdmZTExYWE4YWNlZjEyOTU1YTAzOTc3OGUzZDM5NCIsInN1YiI6IjY0ZjhkMDg3OGUyMGM1MGNkM2VkZTJmOSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.nuQn7WKkUd6sb3Ymewtq-7fCzFb9m4Q7he5hvVJrKo8",
+				"Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI3YTAyMDk5Mzk2NWUzNjU2NzdmMGI5NTI4NTdhMGUyMiIsInN1YiI6IjY0ZmYyZmZjNmEyMjI3MDBlMGYxYTc1NyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.0WxStP-mHyifBpgN7FtyRMsXLJncUGrdQneNJ_jyf7k",
 		},
 	}
 
