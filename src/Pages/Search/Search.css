@@ -2,3 +2,9 @@
 	display: flex;
 	margin: 15px 0;
 }
+
+.searchBox{
+	
+	background-color: white;
+	font-weight: 600;
+}
